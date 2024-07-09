@@ -14,7 +14,7 @@ The Metro Route Optimization System is a Java-based application designed to opti
 
 ## Installation
 1. **Clone the repository**:
-git clone https://github.com/your-username/metro-route-optimization.git:
+git clone https://github.com/AdityaBarad/Metro-Route-Optimization-System.git
 
 3. **Open in your Java IDE**:
 Import the project into your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse).
